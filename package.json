@@ -1,0 +1,28 @@
+{
+  "name": "wsNodeService",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddangelorb/wsNodeService.git"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^8.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddangelorb/wsNodeService/issues"
+  },
+  "homepage": "https://github.com/ddangelorb/wsNodeService#readme"
+}
